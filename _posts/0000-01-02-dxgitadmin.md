@@ -6,6 +6,6 @@ title: "Welcome to our second slide!"
 
 ---
 
-Your text
+Welcome to the world of DDX Engineers!
 
 Use the left arrow to go back!
